@@ -1,0 +1,22 @@
+
+.my_featureRow {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    border: 0.1em solid rgb(163, 163, 163);
+}
+
+.col-add{
+    height: 50px;
+}
+/*.inputText{*/
+/*    display: block;*/
+/*    position: absolute;*/
+/*    top: 0;*/
+/*    overflow: hidden;;*/
+/*}*/
+
+/*.newCol{*/
+/*    display: block;*/
+/*    position: relative;*/
+
+/*}*/
